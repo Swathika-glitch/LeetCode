@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Swathika-glitch/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
