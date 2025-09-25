@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Swathika-glitch/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Swathika-glitch/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Swathika-glitch/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -47,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Swathika-glitch/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
