@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
+| [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Swathika-glitch/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
