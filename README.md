@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
 | [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Swathika-glitch/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/Swathika-glitch/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -46,9 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Swathika-glitch/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
