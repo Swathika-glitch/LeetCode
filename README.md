@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Swathika-glitch/LeetCode/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Swathika-glitch/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Swathika-glitch/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Sorting
