@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Swathika-glitch/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/Swathika-glitch/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Swathika-glitch/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Swathika-glitch/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Swathika-glitch/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
