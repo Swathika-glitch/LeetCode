@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Swathika-glitch/LeetCode/tree/master/0198-house-robber) |
+| [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Swathika-glitch/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Swathika-glitch/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
