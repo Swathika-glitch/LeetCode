@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Swathika-glitch/LeetCode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Swathika-glitch/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Swathika-glitch/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Swathika-glitch/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/1018-largest-perimeter-triangle) |
