@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Swathika-glitch/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Swathika-glitch/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Swathika-glitch/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Swathika-glitch/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Swathika-glitch/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Greedy
 |  |
 | ------- |
@@ -108,12 +111,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Swathika-glitch/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Swathika-glitch/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
