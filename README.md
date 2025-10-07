@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Swathika-glitch/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Swathika-glitch/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Swathika-glitch/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Swathika-glitch/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Geometry
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Swathika-glitch/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Swathika-glitch/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
 | ------- |
