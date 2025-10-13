@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Swathika-glitch/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Swathika-glitch/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Swathika-glitch/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Swathika-glitch/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Swathika-glitch/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Swathika-glitch/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Swathika-glitch/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Swathika-glitch/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swathika-glitch/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Swathika-glitch/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Swathika-glitch/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Swathika-glitch/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Swathika-glitch/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Swathika-glitch/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Swathika-glitch/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Swathika-glitch/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Swathika-glitch/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Swathika-glitch/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Swathika-glitch/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Swathika-glitch/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Swathika-glitch/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
